@@ -19,4 +19,9 @@ I am a fullstack software developer from Hungary
 <br>
 <br>
 
-[![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=halaszbenjamin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=halaszbenjamin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/halaszbenjamin/github-readme-stats)
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halaszbenjamin)](https://github.com/benjamin/github-readme-stats)
