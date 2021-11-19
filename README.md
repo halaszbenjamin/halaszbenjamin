@@ -13,6 +13,7 @@ I am a fullstack software developer from Hungary
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-red.svg?&style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java-orange.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-blue.svg?&style=for-the-badge&logo=postgres&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-lightblue.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
