@@ -17,3 +17,6 @@ I am a fullstack software developer from Hungary
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-lightblue.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
 <br>
+<br>
+
+[![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=halaszbenjamin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
